@@ -1,4 +1,3 @@
-const { route } = require('../html/html-routes');
 const{
     getAllPizza,
     getPizzaById,
